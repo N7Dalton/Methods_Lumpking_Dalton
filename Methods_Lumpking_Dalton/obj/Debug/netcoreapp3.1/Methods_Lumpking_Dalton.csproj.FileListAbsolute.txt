@@ -1,0 +1,14 @@
+C:\Users\dalton.lumpkin\source\repos\Methods_Lumpking_Dalton\Methods_Lumpking_Dalton\bin\Debug\netcoreapp3.1\Methods_Lumpking_Dalton.exe
+C:\Users\dalton.lumpkin\source\repos\Methods_Lumpking_Dalton\Methods_Lumpking_Dalton\bin\Debug\netcoreapp3.1\Methods_Lumpking_Dalton.deps.json
+C:\Users\dalton.lumpkin\source\repos\Methods_Lumpking_Dalton\Methods_Lumpking_Dalton\bin\Debug\netcoreapp3.1\Methods_Lumpking_Dalton.runtimeconfig.json
+C:\Users\dalton.lumpkin\source\repos\Methods_Lumpking_Dalton\Methods_Lumpking_Dalton\bin\Debug\netcoreapp3.1\Methods_Lumpking_Dalton.runtimeconfig.dev.json
+C:\Users\dalton.lumpkin\source\repos\Methods_Lumpking_Dalton\Methods_Lumpking_Dalton\bin\Debug\netcoreapp3.1\Methods_Lumpking_Dalton.dll
+C:\Users\dalton.lumpkin\source\repos\Methods_Lumpking_Dalton\Methods_Lumpking_Dalton\bin\Debug\netcoreapp3.1\Methods_Lumpking_Dalton.pdb
+C:\Users\dalton.lumpkin\source\repos\Methods_Lumpking_Dalton\Methods_Lumpking_Dalton\obj\Debug\netcoreapp3.1\Methods_Lumpking_Dalton.csproj.AssemblyReference.cache
+C:\Users\dalton.lumpkin\source\repos\Methods_Lumpking_Dalton\Methods_Lumpking_Dalton\obj\Debug\netcoreapp3.1\Methods_Lumpking_Dalton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dalton.lumpkin\source\repos\Methods_Lumpking_Dalton\Methods_Lumpking_Dalton\obj\Debug\netcoreapp3.1\Methods_Lumpking_Dalton.AssemblyInfoInputs.cache
+C:\Users\dalton.lumpkin\source\repos\Methods_Lumpking_Dalton\Methods_Lumpking_Dalton\obj\Debug\netcoreapp3.1\Methods_Lumpking_Dalton.AssemblyInfo.cs
+C:\Users\dalton.lumpkin\source\repos\Methods_Lumpking_Dalton\Methods_Lumpking_Dalton\obj\Debug\netcoreapp3.1\Methods_Lumpking_Dalton.csproj.CoreCompileInputs.cache
+C:\Users\dalton.lumpkin\source\repos\Methods_Lumpking_Dalton\Methods_Lumpking_Dalton\obj\Debug\netcoreapp3.1\Methods_Lumpking_Dalton.dll
+C:\Users\dalton.lumpkin\source\repos\Methods_Lumpking_Dalton\Methods_Lumpking_Dalton\obj\Debug\netcoreapp3.1\Methods_Lumpking_Dalton.pdb
+C:\Users\dalton.lumpkin\source\repos\Methods_Lumpking_Dalton\Methods_Lumpking_Dalton\obj\Debug\netcoreapp3.1\Methods_Lumpking_Dalton.genruntimeconfig.cache
